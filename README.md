@@ -1,5 +1,5 @@
 # react-draggable-table
-cursor event 와 관련된 계산 기능을 지원하는 훅을 제공합니다.
+리액트용 table cell 드래그 관련 기능을 지원하는 컴포넌트를 제공합니다.
 
 <br />
 
