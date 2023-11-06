@@ -1,0 +1,9 @@
+.default-drag-area-style {
+  border: 1px dashed #000;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: 2;
+}
+
+.default-cell-active-style {
+  background-color: #6da5e9;
+}
